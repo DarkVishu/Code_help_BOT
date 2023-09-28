@@ -54,5 +54,3 @@ If you'd like to contribute to this project, please fork the repository and crea
 
 ## Acknowledgments
 The project was developed by <a href="https://github.com/DarkVishu">Parivesh Negi</a>.
-
-Feel free to ask me any programming-related questions, and I'll do my best to assist you!
