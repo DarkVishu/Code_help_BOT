@@ -40,13 +40,12 @@ Hello! I'm chatGUDDU, your friendly programming assistant. I was designed by Sir
 ## Example Usage
 Here's an example of how you can use the chatbot:
 
-    ```
     chatGUDDU: "Hii! What's your good name?"
     User: "Alice"
     chatGUDDU: "Nice talking to you, Alice! Are you facing trouble in programming? Do you need some help? (Y/N)"
     User: "Y"
     chatGUDDU: "Here's what I have for you..."
-    ```
+    
 (User selects an option, e.g., "Check ODD or EVEN?")
 chatGUDDU provides a Python code example for the selected task.
 
