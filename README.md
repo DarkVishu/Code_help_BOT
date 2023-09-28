@@ -40,7 +40,7 @@ Hello! I'm chatGUDDU, your friendly programming assistant. I was designed by Sir
 ## Example Usage
 Here's an example of how you can use the chatbot:
 
-    ```shell
+    ```
     chatGUDDU: "Hii! What's your good name?"
     User: "Alice"
     chatGUDDU: "Nice talking to you, Alice! Are you facing trouble in programming? Do you need some help? (Y/N)"
